@@ -25,7 +25,7 @@ steps:
               '--memory',
               '128MB',
               '--set-env-vars',
-              'BOT_TOKEN=${_BOT_TOKEN},SHEET_ID=${_SHEET_ID},SHEET_CLIENT_EMAIL=${_SHEET_CLIENT_EMAIL},SHEET_PRIVATE_KEY=${_SHEET_PRIVATE_KEY},INSIDER_CHAT_ID=${_INSIDER_CHAT_ID}',
+              'BOT_TOKEN=${6701369024:AAFpB2-Vk4PhbV_TmwiQo-rp3zRLVUm6vTc},SHEET_ID=${0},SHEET_CLIENT_EMAIL=${iboxhdtv@gmail.com},SHEET_PRIVATE_KEY=${1nvBWxlOUyBQcYCycLitt9rPTPf7KPtFp1V17PmJWMF0},INSIDER_CHAT_ID=${-1001600833384}',
           ]
       dir: '.'
     - name: 'gcr.io/cloud-builders/gcloud'
